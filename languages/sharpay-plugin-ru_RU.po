@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: tech@sharpay.io\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2020-06-17 15:57+0300\n"
+"Last-Translator: tech@sharpay.io\n"
+"Language-Team: tech@sharpay.io\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: plurals=2; plural=(n > 1)\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: sharpay.php:40
+#, php-format
+msgid "This plugin requires WordPress version %s or higher"
+msgstr "Для этого плагина требуется версия WordPress %s или выше"
+
+#: sharpay.php:81
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/class-sharpay-widget.php:30
+msgid ""
+"To use Sharpay multishare button widget you need to set up site ID in "
+"plugin's settings first."
+msgstr ""
+"Чтобы использовать виджет Sharpay, сначала необходимо настроить "
+"идентификатор сайта в настройках плагина."
+
+#: includes/sharpay-admin.php:23
+msgid "Sharpay Plugin Settings"
+msgstr "Настройки плагина Sharpay"
+
+#: includes/sharpay-admin.php:24
+msgid "Sharpay"
+msgstr "Sharpay"
+
+#: includes/sharpay-admin.php:95
+msgid "Sharpay Settings"
+msgstr "Настройки Sharpay"
+
+#: includes/sharpay-admin.php:101
+msgid "Sharpay project ID"
+msgstr "Sharpay ID проекта"
+
+#: includes/sharpay-admin.php:106
+msgid "Get your project ID or register new project for your site in Sharpay"
+msgstr "Получите ID своего проекта или зарегистрируйте новый проект для своего сайта в Sharpay"
+
+#: includes/sharpay-admin.php:112
+msgid ""
+"To make Sharpay multisharing button work you need to register your site as a "
+"project in <a href=\"https://app.sharpay.io\" target=\"_blank\">app.sharpay."
+"io</a> and provide project's ID"
+msgstr ""
+"Для работы кнопки шеринга Sharpay необходимо зарегистрировать свой сайт как "
+"проект в <a href=\\\"https://app.sharpay.io\\\" target=\\\"_blank\\\">app."
+"sharpay.io</a> и указать идентификатор проекта в настройках плагина"
+
+#: includes/sharpay-admin.php:120
+msgid "Static button"
+msgstr "Статическая кнопка"
+
+#: includes/sharpay-admin.php:120
+msgid "(recommended)"
+msgstr "(рекомендовано)"
+
+#: includes/sharpay-admin.php:126
+msgid "Share button at the TOP of every post/page"
+msgstr "Кнопка «Поделиться» в ВЕРХНЕЙ части каждого поста/страницы"
+
+#: includes/sharpay-admin.php:131
+msgid "Share button at the BOTTOM of every post/page"
+msgstr "Кнопка «Поделиться» в НИЖНЕЙ части каждого поста/страницы"
+
+#: includes/sharpay-admin.php:136
+msgid "Share button anywhere INSIDE CONTENT using [sharpay] shortcode"
+msgstr "Кнопка «Поделиться» влюбом месте ВНУТРИ КОНТЕНТА с использованием шорткода [sharpay]"
+
+#: includes/sharpay-admin.php:151
+msgid "Floating button"
+msgstr "Плавающая кнопка"
+
+#: includes/sharpay-admin.php:157
+msgid "Floating button at the BOTTOM of the page"
+msgstr "Плавающая кнопка в НИЖНЕЙ части страницы"
+
+#: includes/sharpay-admin.php:169
+msgid ""
+"If you want to use the advanced settings of Sharpay widgets, use the html "
+"embed code from your Sharpay <a href=\"https://app.sharpay.io/webmaster"
+"\">webmaster area</a>."
+msgstr ""
+"Если вы хотите использовать рассширенные настройки виджетов Sharpay, "
+"воспользуйтесь вставкой html-кода через из кабинета <a>вебмастера</a>."
+
+#: includes/sharpay-admin.php:183
+msgid "Left"
+msgstr "Слева"
+
+#: includes/sharpay-admin.php:186
+msgid "Right"
+msgstr "Справа"
+
+#: includes/sharpay-admin.php:187
+msgid "Select floating button position at the bottom of the page."
+msgstr "Выберите положение плавающей кнопки внизу страницы."
+
+#: includes/sharpay-admin.php:193
+msgid "Light"
+msgstr "Светлая"
+
+#: includes/sharpay-admin.php:196
+msgid "Dark"
+msgstr "Темная"
+
+#: includes/sharpay-admin.php:197
+msgid "Select floating button style."
+msgstr "Выберите стиль плавающий кнопки."
+
+#: includes/sharpay-admin.php:203 includes/sharpay-admin.php:245
+msgid "Share counter"
+msgstr "Счетчик шерингов"
+
+#: includes/sharpay-admin.php:208 includes/sharpay-admin.php:250
+msgid "Separate for every page"
+msgstr "Отдельно для каждой страницы"
+
+#: includes/sharpay-admin.php:211 includes/sharpay-admin.php:253
+msgid "Common for all site"
+msgstr "Общий для всего сайта"
+
+#: includes/sharpay-admin.php:213 includes/sharpay-admin.php:255
+msgid ""
+"Check if you want our button to show how many times your page was shared via "
+"Sharpay."
+msgstr ""
+"Отметьте если хотите, чтобы кнопка показывала, сколько раз поделились "
+"ссылкой на страницу через Sharpay."
+
+#: includes/sharpay-admin.php:219 includes/sharpay-admin.php:300
+msgid ".img | #img | http://..."
+msgstr ".img | #img | http://..."
+
+#: includes/sharpay-admin.php:220 includes/sharpay-admin.php:301
+msgid ""
+"Enter class, id or URL of an image to make it selected by default in sharing "
+"window."
+msgstr ""
+"Введите CSS класс, ID или URL-адрес изображения, чтобы сделать его выбранным "
+"по умолчанию в окне шеринга."
+
+#: includes/sharpay-admin.php:232
+msgid "32px"
+msgstr "32px"
+
+#: includes/sharpay-admin.php:235
+msgid "24px"
+msgstr "24px"
+
+#: includes/sharpay-admin.php:238
+msgid "16px"
+msgstr "16px"
+
+#: includes/sharpay-admin.php:239
+msgid ""
+"Set button height to make button smaller. Button width will change "
+"accordingly."
+msgstr ""
+"Установите высоту кнопки, чтобы сделать ее меньше или больше. Ширина кнопки "
+"изменится соответственно."
+
+#: includes/sharpay-admin.php:263
+msgid "Would you like to use custom colors for Sharpay button?"
+msgstr "Хотите использовать нестандартные цвета для кнопки Sharpay?"
+
+#: includes/sharpay-admin.php:267
+msgid "Font color"
+msgstr "Цвет шрифта"
+
+#: includes/sharpay-admin.php:275
+msgid "Background color"
+msgstr "Фоновый цвет"
+
+#: includes/sharpay-admin.php:288
+msgid "Would you like to use your own HTML markup for Sharpay button?"
+msgstr "Хотите использовать свою собственную HTML-разметку для кнопки Sharpay?"
+
+#: includes/sharpay-admin.php:294
+msgid "Enter HTML markup which represents your custom multishare button."
+msgstr "Введите HTML-разметку вашей кнопки."
